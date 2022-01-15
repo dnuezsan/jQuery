@@ -1,0 +1,3 @@
+API jQuery puede cargarse en documento html con script en header cuyo source sea el enlace del CDN
+
+También puede descargarse en el equipo para tenerlo listo constantemente.
